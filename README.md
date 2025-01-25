@@ -20,7 +20,6 @@
 # 설치 방법
 <ol>
   <li>우측 메뉴 중에서 "<strong><a href="https://github.com/doriok-lab/concatimgs/releases">Releases</a></strong>"를 클릭합니다.</li>
-  <li>릴리스의 "<strong>Assets</strong>" 중에서 설치 파일을 압축한 "concatimgs-setup.zip"를 다운로드합니다.</li>
-  <li>다운받은 파일의 압축을 풉니다.</li>
-  <li>설치 파일("concatimgs-setup.exe")을 실행합니다.</li>
+  <li>릴리스의 "<strong>Assets</strong>" 중에서 설치 파일(concatimgs-setup.exe)를 다운로드합니다.</li>
+  <li>설치 파일을 실행합니다.</li>
 </ol>
